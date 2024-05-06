@@ -13,10 +13,11 @@ github:
 permalink: /standards-guidelines/w3c-process/fr   # Add the language shortcode to the end, with no slash at end, for example: /standards-guidelines/w3c-process/fr
 
 lang: fr   # Change "en" to the translated language shortcode
-last_updated: 2020-12-08   # Put the date of this translation YYYY-MM-DD (with month in the middle)
+last_updated: 2021-08-12   # Put the date of this translation YYYY-MM-DD (with month in the middle)
 translators:   # remove from the beginning of the line: "# " and add your name(s)
 - name: "Sofia Ahmed"
 contributors:
+- name: "Victoria Menezes Miller"
 - name: "Sandra Velarde Gonzalez (ETNIC)"
 
 layout: default
@@ -33,10 +34,10 @@ footer: >
 {% include box.html type="start" h="2" title="Introduction" class="full" %}
 {:/}
 
-L'Initiative pour l'accessibilité du Web (WAI) élabore les recommandations en matière d'accessibilité Web, les spécifications techniques et les ressources pédagogiques dans le but de rendre le Web accessible pour les personnes en situation de handicap. Ce document introduit comment la WAI travaille selon un processus conçu pour :
+L'Initiative pour l'accessibilité du Web (WAI) élabore les règles en matière d'accessibilité Web, les spécifications techniques et les ressources pédagogiques dans le but de rendre le Web accessible pour les personnes en situation de handicap. Ce document introduit comment la WAI travaille selon un processus conçu pour :
 
 -   assurer une large participation de la communauté et
--   encourager la mise en place d'un [consensus](https://www.w3.org/Consortium/Process/#Consensus).
+-   encourager le développement du [consensus](https://www.w3.org/Consortium/Process/#Consensus).
 
 {::nomarkdown}
 {% include box.html type="end" %}
