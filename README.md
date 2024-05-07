@@ -1,1 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/393e8d37-ccf9-4d59-a2b4-310799364ffd/deploy-status)](https://app.netlify.com/sites/wai-about-w3c-process/deploys)
+> [!IMPORTANT]
+> This repository has been archived 7 May 2024.
+>
+> [How WAI Develops Accessibility Standards through the W3C Process](https://www.w3.org/WAI/standards-guidelines/w3c-process/) is now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
